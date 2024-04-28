@@ -17,6 +17,6 @@ Test
 [Test](https://www.google.com/)
 
 Image
-![Image](/assets/img/Simmons Logo copy.png)
+![Image](/assets/img/Simmons.png)
 
 
