@@ -10,6 +10,7 @@ Assistant Professor at Simmons University
 
 ### Projects
 Fitbit research
+
 [Project](https://github.com/trichtil/Project1/tree/main)  
 
 
