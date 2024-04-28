@@ -16,4 +16,7 @@ Fitbit research
 Test
 [Test](https://www.google.com/)
 
+Image
+![Image](/assets/img/Simmons Logo copy.png)
+
 
